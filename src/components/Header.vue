@@ -1,7 +1,7 @@
 <template>
     <div class="header">
         <div class="header-wrap clearfix">
-            <a href="/" class="logo">
+            <a href="/cnode/dist" class="logo">
                 <img src="../assets/logo.svg" alt="">
             </a>
             <ul class="nav clearfix">
